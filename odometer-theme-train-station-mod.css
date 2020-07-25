@@ -1,4 +1,4 @@
-@import url("//fonts.googleapis.com/css?family=Arvo");
+@import url("//fonts.googleapis.com/css?family=Economica");
 .odometer.odometer-auto-theme, .odometer.odometer-theme-train-station {
   display: inline-block;
   vertical-align: middle;
@@ -93,7 +93,7 @@
   -moz-border-radius: 0.1em;
   -webkit-border-radius: 0.1em;
   border-radius: 0.1em;
-  background-image: url('timerbg.png');
+  background-image: url('https://github.com/pra27nav/dinostream/blob/master/timerbg.png');
   background-size: 100%;
   background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #111111), color-stop(35%, #111111), color-stop(55%, #333333), color-stop(55%, #111111), color-stop(100%, #111111));
   background-image: -moz-linear-gradient(top, #111111 0%, #111111 35%, #333333 55%, #111111 55%, #111111 100%);
